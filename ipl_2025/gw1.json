@@ -20,17 +20,17 @@
           "overs_str": "20 overs",
           "overs_float": 20.0,
           "players": [
-            "Rinku Singh",
-            "Ramandeep Singh",
             "Ajinkya Rahane",
-            "Harshit Rana",
-            "Quinton de Kock",
-            "Angkrish Raghuvanshi",
             "Andre Russell",
+            "Angkrish Raghuvanshi",
             "Spencer Johnson",
-            "Varun Chakravarthy",
             "Venkatesh Iyer",
+            "Ramandeep Singh",
             "Vaibhav Arora",
+            "Rinku Singh",
+            "Harshit Rana",
+            "Varun Chakravarthy",
+            "Quinton de Kock",
             "Sunil Narine"
           ]
         },
@@ -41,18 +41,18 @@
           "overs_str": "16.2 overs",
           "overs_float": 16.333333333333332,
           "players": [
-            "Suyash Sharma",
+            "Liam Livingstone",
+            "Josh Hazlewood",
             "Tim David",
-            "Devdutt Padikkal",
+            "Jitesh Sharma",
             "Rasikh Salam",
             "Phil Salt",
-            "Krunal Pandya",
+            "Virat Kohli",
+            "Suyash Sharma",
             "Rajat Patidar",
-            "Jitesh Sharma",
-            "Liam Livingstone",
-            "Yash Dayal",
-            "Josh Hazlewood",
-            "Virat Kohli"
+            "Krunal Pandya",
+            "Devdutt Padikkal",
+            "Yash Dayal"
           ]
         },
         "run_out_batters": [],
@@ -658,17 +658,17 @@
           "overs_float": 20.0,
           "players": [
             "Riyan Parag",
-            "Fazalhaq Farooqi",
-            "Maheesh Theekshana",
-            "Jofra Archer",
-            "Shimron Hetmeyer",
-            "Nitish Rana",
             "Tushar Deshpande",
+            "Fazalhaq Farooqi",
+            "Shimron Hetmeyer",
+            "Jofra Archer",
             "Shubham Dubey",
-            "Sandeep Sharma",
-            "Dhruv Jurel",
+            "Maheesh Theekshana",
+            "Nitish Rana",
             "Sanju Samson",
-            "Yashasvi Jaiswal"
+            "Yashasvi Jaiswal",
+            "Dhruv Jurel",
+            "Sandeep Sharma"
           ]
         },
         "team_2_stats": {
@@ -678,18 +678,18 @@
           "overs_str": "20 overs",
           "overs_float": 20.0,
           "players": [
-            "Abhishek Sharma",
-            "Mohammed Shami",
-            "Abhinav Manohar",
             "Heinrich Klaasen",
+            "Abhishek Sharma",
             "Pat Cummins",
-            "Ishan Kishan",
-            "Simarjeet Singh",
-            "Harshal Patel",
-            "Nitish Reddy",
-            "Adam Zampa",
             "Travis Head",
-            "Aniket Verma"
+            "Aniket Verma",
+            "Simarjeet Singh",
+            "Adam Zampa",
+            "Harshal Patel",
+            "Ishan Kishan",
+            "Nitish Reddy",
+            "Mohammed Shami",
+            "Abhinav Manohar"
           ]
         },
         "run_out_batters": [],
@@ -1296,18 +1296,18 @@
           "overs_str": "19.1 overs",
           "overs_float": 19.166666666666668,
           "players": [
-            "Nathan Ellis",
-            "Ravindra Jadeja",
-            "Shivam Dube",
             "Rachin Ravindra",
-            "Rahul Tripathi",
+            "Deepak Hooda",
             "M S Dhoni",
             "Noor Ahmad",
             "Sam Curran",
             "Ruturaj Gaikwad",
+            "Shivam Dube",
+            "Nathan Ellis",
+            "Khaleel Ahmed",
+            "Rahul Tripathi",
             "Ravichandran Ashwin",
-            "Deepak Hooda",
-            "Khaleel Ahmed"
+            "Ravindra Jadeja"
           ]
         },
         "team_2_stats": {
@@ -1317,18 +1317,18 @@
           "overs_str": "20 overs",
           "overs_float": 20.0,
           "players": [
-            "Naman Dhir",
-            "Robin Minz",
-            "Ryan Rickelton",
-            "Tilak Varma",
-            "Trent Boult",
+            "Satyanarayana Raju",
             "Suryakumar Yadav",
+            "Vignesh Puthur",
+            "Deepak Chahar",
+            "Robin Minz",
+            "Mitchell Santner",
+            "Trent Boult",
+            "Tilak Varma",
             "Will Jacks",
             "Rohit Sharma",
-            "Deepak Chahar",
-            "Satyanarayana Raju",
-            "Vignesh Puthur",
-            "Mitchell Santner"
+            "Naman Dhir",
+            "Ryan Rickelton"
           ]
         },
         "run_out_batters": [
@@ -1533,7 +1533,7 @@
           "catches": 0,
           "wickets_taken_bowled": 0,
           "wickets_taken_lbw": 0,
-          "run_outs": 0,
+          "run_outs": 1,
           "stumpings": 0,
           "not_out": true,
           "runs": 28,
@@ -1922,14 +1922,6 @@
           "runs_conceded": 29,
           "wickets_taken": 3,
           "economy_rate": 7.25
-        },
-        "D Chahar": {
-          "player_name": "D Chahar",
-          "substitute": true,
-          "catches": 0,
-          "run_outs": 1,
-          "stumpings": 0,
-          "team": "Mumbai Indians"
         }
       }
     },
@@ -1953,18 +1945,18 @@
           "overs_str": "20 overs",
           "overs_float": 20.0,
           "players": [
-            "Aiden Markram",
-            "Digvesh Rathi",
-            "Manimaran Siddharth",
-            "David Miller",
-            "Nicholas Pooran",
             "Mitchell Marsh",
+            "Ayush Badoni",
+            "Nicholas Pooran",
+            "Aiden Markram",
             "Prince Yadav",
-            "Ravi Bishnoi",
-            "Rishabh Pant",
-            "Shardul Thakur",
+            "David Miller",
+            "Digvesh Rathi",
             "Shahbaz Ahmed",
-            "Ayush Badoni"
+            "Manimaran Siddharth",
+            "Shardul Thakur",
+            "Rishabh Pant",
+            "Ravi Bishnoi"
           ]
         },
         "team_2_stats": {
@@ -1974,18 +1966,18 @@
           "overs_str": "19.3 overs",
           "overs_float": 19.5,
           "players": [
-            "Mitchell Starc",
-            "Ashutosh Sharma",
             "Mohit Sharma",
-            "Mukesh Kumar",
-            "Kuldeep Yadav",
-            "Abishek Porel",
-            "Sameer Rizvi",
-            "Vipraj Nigam",
-            "Jake Fraser-McGurk",
             "Tristan Stubbs",
+            "Abishek Porel",
             "Faf du Plessis",
-            "Axar Patel"
+            "Mitchell Starc",
+            "Mukesh Kumar",
+            "Jake Fraser-McGurk",
+            "Vipraj Nigam",
+            "Axar Patel",
+            "Sameer Rizvi",
+            "Kuldeep Yadav",
+            "Ashutosh Sharma"
           ]
         },
         "run_out_batters": [
@@ -2613,18 +2605,18 @@
           "overs_str": "20 overs",
           "overs_float": 20.0,
           "players": [
+            "Mohammed Siraj",
+            "Rashid Khan",
+            "Sai Kishore",
+            "Prasidh Krishna",
+            "Jos Buttler",
+            "Arshad Khan",
+            "Rahul Tewatia",
+            "Sai Sudharsan",
+            "Shahrukh Khan",
             "Shubman Gill",
             "Kagiso Rabada",
-            "Jos Buttler",
-            "Rahul Tewatia",
-            "Shahrukh Khan",
-            "Sai Kishore",
-            "Rashid Khan",
-            "Sai Sudharsan",
-            "Sherfane Rutherford",
-            "Mohammed Siraj",
-            "Prasidh Krishna",
-            "Arshad Khan"
+            "Sherfane Rutherford"
           ]
         },
         "team_2_stats": {
@@ -2634,17 +2626,17 @@
           "overs_str": "20 overs",
           "overs_float": 20.0,
           "players": [
-            "Glenn Maxwell",
-            "Shashank Singh",
-            "Priyansh Arya",
-            "Azmatullah Omarzai",
             "Yuzvendra Chahal",
-            "Vijaykumar Vyshak",
-            "Marcus Stoinis",
-            "Suryansh Shedge",
-            "Prabhsimran Singh",
+            "Shashank Singh",
+            "Azmatullah Omarzai",
             "Marco Jansen",
+            "Prabhsimran Singh",
+            "Marcus Stoinis",
+            "Vijaykumar Vyshak",
             "Arshdeep Singh",
+            "Priyansh Arya",
+            "Glenn Maxwell",
+            "Suryansh Shedge",
             "Shreyas Iyer"
           ]
         },
@@ -2653,9 +2645,7 @@
         ],
         "batters_caught_by_sub": [],
         "batters_stumped_by_sub": [],
-        "batters_out_by_undistinguishable_players": [
-          "Sai Sudharsan"
-        ]
+        "batters_out_by_undistinguishable_players": []
       },
       "player_stats": {
         "Priyansh Arya": {
